@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 This is a simple implementation of the Tic Tac Toe game in C++. The game allows two players to take turns and play against each other on a 3x3 grid.
 
-**Features**
+**Features**<<endl;
 Player vs Player: Two human players can play against each other.
 Valid Move Checking: The game validates each move to ensure it is within the bounds of the board and the selected cell is not already occupied.
 Winning Condition: The game checks for winning conditions after each move to determine if a player has won or if it's a draw.
